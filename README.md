@@ -31,6 +31,7 @@ Realizar o levantamento e análise de requisitos para a criação de um sistema 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60" height="60"/>
 </p>
 
@@ -66,7 +67,7 @@ Realizar o levantamento e análise de requisitos para a criação de um sistema 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📝 Plataforma Desktop
-[📄 Confira a documentação completa aqui]()
+[📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/PIM--MVP-DESK/tree/main/python)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
