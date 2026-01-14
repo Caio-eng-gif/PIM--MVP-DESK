@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "home", "home", "{EBEFDB8B-24C9-1DAF-DE22-BED4049D1AC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ubuntu", "ubuntu", "{23B5B6C1-D3C4-44B7-4FB0-D72890E808B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "helpdesk_project", "helpdesk_project", "{33032744-EEF7-59CB-D9FD-F2DDE34A5664}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "home", "home", "{42F433AA-A494-7FFC-FE1C-82D0430B3AB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ubuntu", "ubuntu", "{283904A5-9DE3-637F-822D-A69E312DC8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskSystemFixed", "home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\HelpDeskSystemFixed.csproj", "{E097ADEE-8768-6713-B364-621CADF42FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E097ADEE-8768-6713-B364-621CADF42FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E097ADEE-8768-6713-B364-621CADF42FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E097ADEE-8768-6713-B364-621CADF42FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E097ADEE-8768-6713-B364-621CADF42FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23B5B6C1-D3C4-44B7-4FB0-D72890E808B0} = {EBEFDB8B-24C9-1DAF-DE22-BED4049D1AC8}
+		{33032744-EEF7-59CB-D9FD-F2DDE34A5664} = {23B5B6C1-D3C4-44B7-4FB0-D72890E808B0}
+		{42F433AA-A494-7FFC-FE1C-82D0430B3AB5} = {33032744-EEF7-59CB-D9FD-F2DDE34A5664}
+		{283904A5-9DE3-637F-822D-A69E312DC8C5} = {42F433AA-A494-7FFC-FE1C-82D0430B3AB5}
+		{E097ADEE-8768-6713-B364-621CADF42FF8} = {283904A5-9DE3-637F-822D-A69E312DC8C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D057AEC-D2B3-48CF-A115-D40BC83953E7}
+	EndGlobalSection
+EndGlobal

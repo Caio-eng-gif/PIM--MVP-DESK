@@ -1,0 +1,101 @@
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/HelpDeskSystemFixed
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/HelpDeskSystemFixed.deps.json
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/HelpDeskSystemFixed.runtimeconfig.json
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/HelpDeskSystemFixed.dll
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/HelpDeskSystemFixed.pdb
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/BCrypt.Net-Next.dll
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/System.Data.SQLite.dll
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/runtimes/linux-x64/native/SQLite.Interop.dll
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/runtimes/osx-x64/native/SQLite.Interop.dll
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/runtimes/win-x64/native/SQLite.Interop.dll
+/home/ubuntu/HelpDeskSystemFixed/bin/Debug/net8.0-windows/runtimes/win-x86/native/SQLite.Interop.dll
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/HelpDeskSystemFixed.csproj.AssemblyReference.cache
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/HelpDeskSystemFixed.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/HelpDeskSystemFixed.csproj.CoreCompileInputs.cache
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/HelpDesk.B2C33C8F.Up2Date
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/HelpDeskSystemFixed.dll
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/refint/HelpDeskSystemFixed.dll
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/HelpDeskSystemFixed.pdb
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/HelpDeskSystemFixed.genruntimeconfig.cache
+/home/ubuntu/HelpDeskSystemFixed/obj/Debug/net8.0-windows/ref/HelpDeskSystemFixed.dll
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/HelpDeskSystemFixed.csproj.AssemblyReference.cache
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/HelpDeskSystemFixed.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/HelpDeskSystemFixed.csproj.CoreCompileInputs.cache
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/HelpDeskSystemFixed.dll
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/refint/HelpDeskSystemFixed.dll
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/HelpDeskSystemFixed.pdb
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/HelpDeskSystemFixed
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/HelpDeskSystemFixed.deps.json
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/HelpDeskSystemFixed.runtimeconfig.json
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/HelpDeskSystemFixed.dll
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/HelpDeskSystemFixed.pdb
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/BCrypt.Net-Next.dll
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/System.Data.SQLite.dll
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/runtimes/linux-x64/native/SQLite.Interop.dll
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/runtimes/osx-x64/native/SQLite.Interop.dll
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/runtimes/win-x64/native/SQLite.Interop.dll
+/home/ubuntu/HelpDeskSystemMelhorado/bin/Debug/net8.0-windows/runtimes/win-x86/native/SQLite.Interop.dll
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/HelpDesk.B2C33C8F.Up2Date
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/HelpDeskSystemFixed.genruntimeconfig.cache
+/home/ubuntu/HelpDeskSystemMelhorado/obj/Debug/net8.0-windows/ref/HelpDeskSystemFixed.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\HelpDeskSystemFixed.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\HelpDeskSystemFixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\HelpDeskSystemFixed.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\HelpDeskSystemFixed.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\HelpDeskSystemFixed.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\HelpDeskSystemFixed.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\HelpDeskSystemFixed.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\HelpDeskSystemFixed.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\HelpDesk.B2C33C8F.Up2Date
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\HelpDeskSystemFixed.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\refint\HelpDeskSystemFixed.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\HelpDeskSystemFixed.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\HelpDeskSystemFixed.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\sistema que deu certo não mexeraaaaaaaaaaaaa\HelpDeskSystemProject_Fixed (1)\home\ubuntu\helpdesk_project\home\ubuntu\HelpDeskSystemProject\obj\Debug\net8.0-windows\ref\HelpDeskSystemFixed.dll
